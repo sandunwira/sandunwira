@@ -2,13 +2,12 @@
 
 ## LINKS:
 
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://sandunwira.repl.co)
-[![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%23FF6600.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/sandunwira)
-[![MAIL](https://img.shields.io/badge/MAIL-%23005FF9.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sandunwira1234@gmail.com)
-[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sandunwira)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunwira)
-[![TWITTER](https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandunwira)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandunwiratunga)
+[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge&logo=github&logoColor=white)](https://sandunwira.repl.co)
+[![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%23E23434.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/sandunwira)
+[![MAIL](https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sandunwira1234@gmail.com)
+[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-%23E23434.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sandunwira)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E23434.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunwira)
+[![TWITTER](https://img.shields.io/badge/TWITTER-%23E23434.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandunwira)
 
 ## TOOLS I USE:
 
@@ -25,6 +24,3 @@
 [![CARGO](https://img.shields.io/badge/CARGO-%23E6AB37.svg?style=for-the-badge&logo=cargo&logoColor=white)](https://doc.rust-lang.org/cargo)
 [![RUST](https://img.shields.io/badge/RUST-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
 [![TAURI](https://img.shields.io/badge/TAURI-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app)
-
-
-

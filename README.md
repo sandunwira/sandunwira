@@ -1,15 +1,16 @@
 ![banner](https://raw.githubusercontent.com/sandunwira/sandunwira/main/banner.png)
 
-## LINKS:
+### LINKS:
 
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge&logo=github&logoColor=white)](https://sandunwira.repl.co)
+[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge)](https://sandunwira.repl.co)
 [![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%23E23434.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/sandunwira)
-[![MAIL](https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sandunwira1234@gmail.com)
-[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-%23E23434.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sandunwira)
+[![MAIL](https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sandun.wira@outlook.com)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E23434.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunwira)
 [![TWITTER](https://img.shields.io/badge/TWITTER-%23E23434.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandunwira)
 
-## TOOLS I USE:
+<hr>
+
+### TOOLS I USE:
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)

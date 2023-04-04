@@ -2,7 +2,7 @@
 
 ### LINKS:
 
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge)](https://sandunwira.repl.co)
+[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge)](https://sandun.me)
 [![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%23E23434.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/sandunwira)
 [![MAIL](https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sandun.wira@outlook.com)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E23434.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunwira)

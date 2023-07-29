@@ -25,8 +25,8 @@
 [![NodeGPT](https://img.shields.io/badge/Node_GPT-%23339933.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Node-GPT)
 
 ###### WEBSITES
-[![TwitchBox Web](https://img.shields.io/badge/TwitchBox_Web-%23755CA7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/TwitchBox-Web)
 [![SupTube Web](https://img.shields.io/badge/SupTube_Web-%23ED1C24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube-Web)
+[![TwitchBox Web](https://img.shields.io/badge/TwitchBox_Web-%23755CA7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/TwitchBox-Web)
 [![PenPace Web](https://img.shields.io/badge/PenPace_Web-%232C88C3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PenPace-Web)
 [![SJCColombo](https://img.shields.io/badge/SJCColombo-%231E4466.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjccolombo/sjccolombo)
 

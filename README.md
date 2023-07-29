@@ -10,18 +10,25 @@
 
 <hr>
 
-### TOOLS I USE:
+### PROJECTS:
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![NODE.JS](https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![EXPRESS.JS](https://img.shields.io/badge/EXPRESS.JS-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![PYTHON](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![CARGO](https://img.shields.io/badge/CARGO-%23E6AB37.svg?style=for-the-badge&logo=cargo&logoColor=white)](https://doc.rust-lang.org/cargo)
-[![RUST](https://img.shields.io/badge/RUST-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
-[![TAURI](https://img.shields.io/badge/TAURI-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black)](https://tauri.app)
+###### APPLICATIONS
+[![SupTube](https://img.shields.io/badge/SupTube-%23ED1C24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube)
+[![TwitchBox](https://img.shields.io/badge/TwitchBox-%23755CA7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/TwitchBox)
+[![PenPace](https://img.shields.io/badge/PenPace-%232C88C3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PenPace)
+[![Lumina](https://img.shields.io/badge/Lumina-%236590BB.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/Lumina)
+[![Replit](https://img.shields.io/badge/Replit-%23EC5F07.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/Replit)
+[![MarkUp](https://img.shields.io/badge/MarkUp-%23424242.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/MarkUp)
+[![ExaWord](https://img.shields.io/badge/ExaWord-%2304395e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/ExaWord)
+
+###### NODE.JS PROJECTS
+[![NodeGPT](https://img.shields.io/badge/Node_GPT-%23339933.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Node-GPT)
+
+###### WEBSITES
+[![TwitchBox Web](https://img.shields.io/badge/TwitchBox_Web-%23755CA7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/TwitchBox-Web)
+[![SupTube Web](https://img.shields.io/badge/SupTube_Web-%23ED1C24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube-Web)
+[![PenPace Web](https://img.shields.io/badge/PenPace_Web-%232C88C3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PenPace-Web)
+[![SJCColombo](https://img.shields.io/badge/SJCColombo-%231E4466.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjccolombo/sjccolombo)
+
+###### CSS FRAMEWORKS
+[![Boost](https://img.shields.io/badge/Boost-%231572B6.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Boost)

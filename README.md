@@ -1,12 +1,12 @@
-![banner](https://raw.githubusercontent.com/sandunwira/sandunwira/main/banner.png)
+[![banner](https://raw.githubusercontent.com/sandunwira/sandunwira/main/banner.png)](https://github.com/sandunwira)
 
 ### LINKS:
 
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E23434.svg?style=for-the-badge)](https://sandun.me)
-[![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%23E23434.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/sandunwira)
-[![MAIL](https://img.shields.io/badge/MAIL-%23E23434.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sandun.wira@outlook.com)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E23434.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunwira)
-[![TWITTER](https://img.shields.io/badge/TWITTER-%23E23434.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandunwira)
+[![WEBSITE](https://img.shields.io/badge/WEBSITE-%23E73636.svg?style=for-the-badge)](https://sandun.me)
+[![SOURCEFORGE](https://img.shields.io/badge/SOURCEFORGE-%23E73636.svg?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/u/sandunwira)
+[![MAIL](https://img.shields.io/badge/MAIL-%23E73636.svg?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sandun.wira@outlook.com)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%23E73636.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandunwira)
+[![TWITTER](https://img.shields.io/badge/TWITTER-%23E73636.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandunwira)
 
 <hr>
 

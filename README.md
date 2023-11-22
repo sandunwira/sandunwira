@@ -31,3 +31,4 @@
 [![TwitchBox Web](https://img.shields.io/badge/TwitchBox_Web-%23755CA7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/TwitchBox-Web)
 [![PenPace Web](https://img.shields.io/badge/PenPace_Web-%232C88C3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PenPace-Web)
 [![SJCColombo](https://img.shields.io/badge/SJCColombo-%231E4466.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sjccolombo/sjccolombo)
+[![Koo-Lo](https://img.shields.io/badge/Koo_Lo-%231F59EC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/koo-lo.com)

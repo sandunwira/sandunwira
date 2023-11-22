@@ -15,6 +15,7 @@
 ###### APPLICATIONS
 [![SupTube](https://img.shields.io/badge/SupTube-%23ED1C24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube)
 [![TwitchBox](https://img.shields.io/badge/TwitchBox-%23755CA7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/TwitchBox)
+[![PassForge](https://img.shields.io/badge/PassForge-%23C33333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PassForge)
 [![PenPace](https://img.shields.io/badge/PenPace-%232C88C3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PenPace)
 [![Lumina](https://img.shields.io/badge/Lumina-%236590BB.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/Lumina)
 [![Replit](https://img.shields.io/badge/Replit-%23EC5F07.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/Replit)

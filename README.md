@@ -16,6 +16,7 @@
 [![SupTube](https://img.shields.io/badge/SupTube-%23ED1C24.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/SupTube)
 [![TwitchBox](https://img.shields.io/badge/TwitchBox-%23755CA7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/TwitchBox)
 [![PassForge](https://img.shields.io/badge/PassForge-%23C33333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PassForge)
+[![Aurora](https://img.shields.io/badge/Aurora-%23C1184A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Aurora)
 [![Tasker](https://img.shields.io/badge/Tasker-%2343ADE9.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Tasker)
 [![PenPace](https://img.shields.io/badge/PenPace-%232C88C3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PenPace)
 [![Lumina](https://img.shields.io/badge/Lumina-%236590BB.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/Lumina)

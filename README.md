@@ -19,9 +19,9 @@
 [![Aurora](https://img.shields.io/badge/Aurora-%23C1184A.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Aurora)
 [![Tasker](https://img.shields.io/badge/Tasker-%2343ADE9.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Tasker)
 [![PenPace](https://img.shields.io/badge/PenPace-%232C88C3.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/PenPace)
-[![Lumina](https://img.shields.io/badge/Lumina-%236590BB.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/Lumina)
-[![Replit](https://img.shields.io/badge/Replit-%23EC5F07.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/Replit)
-[![MarkUp](https://img.shields.io/badge/MarkUp-%23424242.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teamkoolapps/MarkUp)
+[![Lumina](https://img.shields.io/badge/Lumina-%236590BB.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Lumina)
+[![Replit](https://img.shields.io/badge/Replit-%23EC5F07.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Replit)
+[![MarkUp](https://img.shields.io/badge/MarkUp-%23424242.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/MarkUp)
 [![ExaWord](https://img.shields.io/badge/ExaWord-%2304395e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/ExaWord)
 [![Greencity](https://img.shields.io/badge/Greencity-%23178600.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandunwira/Greencity-CSharp)
 
